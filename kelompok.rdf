@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/">
+
+  <foaf:PersonalProfileDocument rdf:about="http://localhost/ws/kelompok.rdf">
+    <foaf:maker rdf:resource="http://localhost/ws/"/>
+    <foaf:primaryTopic rdf:resource="http://localhost/ws/"/>
+  </foaf:PersonalProfileDocument>
+
+  <foaf:Person rdf:about="http://localhost/ws/">
+
+    <foaf:kelompok>
+      <foaf:Person>
+        <rdfs:label>Mhd. Syahrizal</rdfs:label>
+         <foaf:nim>191402013</foaf:nim>
+         <foaf:gambar rdf:resource="https://i.ibb.co/hfnxC78/Untitled-3.png"/>
+         <dc:deskripsi>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</dc:deskripsi>
+        <foaf:name>Ariana Grande</foaf:name>
+        <foaf:page rdf:resource="http://dbpedia.org/page/Ariana_Grande"/>
+      </foaf:Person>
+    </foaf:kelompok>
+
+    <foaf:kelompok>
+      <foaf:Person>
+        <rdfs:label>Amatul Noor Damanik</rdfs:label>
+        <foaf:nim>191402031</foaf:nim>
+        <foaf:gambar rdf:resource="https://i.ibb.co/WxVJX9Q/foto.jpg"/>
+         <dc:deskripsi>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</dc:deskripsi>
+         <foaf:name>One Direction</foaf:name>
+        <foaf:page rdf:resource="http://dbpedia.org/page/One_Direction"/>
+      </foaf:Person>
+    </foaf:kelompok>
+
+     <foaf:kelompok>
+      <foaf:Person>
+        <rdfs:label>Andrea Vicalina</rdfs:label>
+        <foaf:nim>191402070</foaf:nim>
+        <foaf:gambar rdf:resource="https://i.ibb.co/F8tcwmV/20191212-192600-1.jpg"/>
+         <dc:deskripsi>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</dc:deskripsi>
+         <foaf:name>Ariana Grande</foaf:name>
+        <foaf:page rdf:resource="http://dbpedia.org/page/Ariana_Grande"/>
+      </foaf:Person>
+    </foaf:kelompok>
+
+     <foaf:kelompok>
+      <foaf:Person>
+        <rdfs:label>Franklin</rdfs:label>
+        <foaf:nim>191402094</foaf:nim>
+        <foaf:gambar rdf:resource="https://i.ibb.co/cDsCGtT/franklin.jpg"/>
+         <dc:deskripsi>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</dc:deskripsi>
+         <foaf:name>Ariana Grande</foaf:name>
+        <foaf:page rdf:resource="http://dbpedia.org/page/Ariana_Grande"/>
+      </foaf:Person>
+    </foaf:kelompok>
+
+
+  </foaf:Person>
+
+</rdf:RDF>
